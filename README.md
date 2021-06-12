@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 I'm a generalist/technology enthusiast with a strong focus on site reliability, infrastructure, resiliency, and back end development. I'm interested in building scalable systems and solving bottlenecks or difficult technology challenges. I'm constantly looking for new things to learn or new challenges to explore.
 
 ## Github Stats
-
-![mralanlee's github stats](https://github-readme-stats.vercel.app/api?username=mralanlee&count_private=true&show_icons=true&theme=gruvbox)
-![mralanlee's lang used](https://github-readme-stats.vercel.app/api/top-langs/?username=mralanlee&count_private=true&langs_count=5&layout=compact&theme=gruvbox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mralanlee&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralanlee&line_height=1&count_private=true&langs_count=3&theme=gruvbox" />
+</a>
